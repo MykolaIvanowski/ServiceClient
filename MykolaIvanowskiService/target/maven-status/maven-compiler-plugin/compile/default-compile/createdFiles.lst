@@ -1,0 +1,13 @@
+rest\com\epam\lab\service\MailService.class
+soap\com\epam\lab\modelweb\SummaryFault.class
+soap\com\epam\lab\modelweb\SummarySuccess.class
+soap\com\epam\lab\serviceimpl\MailServiceImpl.class
+soap\com\epam\lab\modelweb\Response.class
+dao\LetterDAO.class
+rest\com\epam\lab\serviceimpl\MailServiceImpl.class
+soap\com\epam\lab\service\MailService.class
+testvalue\MailValue.class
+model\Letter.class
+rest\com\epam\lab\utils\ResponseHandler.class
+soap\com\epam\lab\modelweb\Summary.class
+rest\com\epam\lab\utils\Parser.class

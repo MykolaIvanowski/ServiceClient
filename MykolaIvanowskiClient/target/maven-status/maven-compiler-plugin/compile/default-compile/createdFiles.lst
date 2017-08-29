@@ -1,0 +1,14 @@
+soap\com\epam\lab\service\Letter.class
+soap\com\epam\lab\service\Response.class
+soap\com\epam\lab\serviceimpl\MailServiceImplService.class
+rest\com\epam\lab\helper\Parser.class
+soap\com\epam\lab\service\ObjectFactory.class
+soap\com\epam\lab\client\MailClientImpl.class
+soap\com\epam\lab\service\SummarySuccess.class
+soap\com\epam\lab\service\SummaryFault.class
+soap\com\epam\lab\service\package-info.class
+soap\com\epam\lab\client\MailClient.class
+model\Letter.class
+soap\com\epam\lab\service\Summary.class
+rest\com\epam\lab\web\LetterClient.class
+soap\com\epam\lab\serviceimpl\MailService.class
